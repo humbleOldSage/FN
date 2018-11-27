@@ -1,7 +1,7 @@
 
 
 from getEmbeddings import getEmbeddings,getEmbeddings2
-from untitled1 import make_feature_vector
+#from untitled1 import make_feature_vector
 import matplotlib.pyplot as plt
 import numpy as np
 import keras
